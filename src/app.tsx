@@ -2,7 +2,9 @@ import * as React from 'react';
 
 function App() {
     return (
-        <div>{'react setup from scratch without cra testing ts'}</div>
+        <div>
+            <h1> HELLOOOOOOOO </h1>
+        </div>
     );
 }
 
