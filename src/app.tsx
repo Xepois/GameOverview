@@ -1,10 +1,9 @@
 import * as React from 'react';
+import TopBar from './components/topBar';
 
 function App() {
     return (
-        <div>
-            <h1> HELLOOOOOOOO </h1>
-        </div>
+        <TopBar />
     );
 }
 
